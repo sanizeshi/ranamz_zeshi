@@ -33,7 +33,7 @@ c2 = '\x1b[0;97m\x1b[1;32m\x1b[0;97m'
 c3 = '\x1b[1;31m\x1b[0;97m\x1b[1;31m'
 os.system('git pull')
 os.system('clear')
-logo = '\n\x1b[1;93m      Coder + Author    :     RANA MZ\n\x1b[1;96m      Author2     :     SUNNY\n\x1b[1;95m           Fb+Yt      :    RANA MZ\n\x1b[1;97m ⊱═⊰══════════════════⊰\n\x1b[1;98m          RANA MZ [ Nam Tu Suna Huga ]\n\x1b[1;97m⊱═⊰══════════════════⊰\n'
+logo = '\n\x1b[1;93m      Coder + Author    :     RANA MZ\n\x1b[1;96m      Author2     :     SUNNY\n\x1b[1;95m           Fb+Yt      :    RANA MZ\n\x1b[1;97m \n\x1b[1;98m          RANA MZ [ Nam Tu Suna Huga ]\n\x1b[1;97m\n'
 
 def reg():
     os.system('clear')
